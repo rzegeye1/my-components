@@ -8,7 +8,10 @@ select react with storybook
 To run storybook - npm run storybook 
 
 Storybook - is an open-source tool for building UI components and pages in isolation.
-It streamlines(organize) UI development, testing and documentation 
+It streamlines(organize) UI development, testing and documentation
+- its component driven UI development 
+- its a bottom - up development model 
+   
 
 Storybook addons 
 essential addons comes with tsdx 
@@ -19,3 +22,6 @@ Actions on storybook tracks the action on the component
 
 stortbook mdx
 https://storybook.js.org/docs/react/writing-docs/mdx
+
+allow to create stand alone doumentation that is separate from the actual 
+component
