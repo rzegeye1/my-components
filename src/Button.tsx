@@ -15,7 +15,7 @@ export const Button = ({children, variant = 'primary', ...props}: Props) => {
         <button {...props} style={{background: variant === 'primary'? 'blue': 'gray', 
         color: 'white',
         border: 'none',
-        borderRadius: '200',
+        borderRadius: 100,
         padding: 10,
         cursor: 'pointer'
         }}>
